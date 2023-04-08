@@ -1,0 +1,6 @@
+pip install fastapi
+pip install pydantic
+pip install opencv-python
+pip install path
+pip install numpy
+pip install lmdb
